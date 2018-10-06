@@ -2,7 +2,7 @@
 # Print the weather for a location (command line)
 
 import json
-import requests 
+import requests
 import sys
 
 if len(sys.argv) < 2:
